@@ -1,6 +1,6 @@
 # cinemark_fake
 
-A new Flutter project.
+Um projeto Flutter realizado para ser contratado na Switch
 
 ## Getting Started
 Architetura usada mobx link: https://pub.dev/packages/mobx
