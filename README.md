@@ -1,6 +1,6 @@
 # cinemark_fake
 
-Um projeto Flutter realizado para ser contratado na Switch
+Um projeto Flutter  utilizando mobx e o gerenciador de pacotes slidy
 
 ## Getting Started
 Architetura usada mobx link: https://pub.dev/packages/mobx
